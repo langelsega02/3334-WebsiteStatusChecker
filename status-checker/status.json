@@ -1,0 +1,10 @@
+[
+  {"url": "https://www.google.com/", "status": 200, "time_ms": 81, "timestamp": "SystemTime { tv_sec: 1747286987, tv_nsec: 120097111 }"},
+  {"url": "https://www.youtube.com/watch?v=xYoESR1aEQk", "status": 200, "time_ms": 126, "timestamp": "SystemTime { tv_sec: 1747286987, tv_nsec: 163853795 }"},
+  {"url": "https://www.utrgv.edu/", "status": 200, "time_ms": 154, "timestamp": "SystemTime { tv_sec: 1747286987, tv_nsec: 187075667 }"},
+  {"url": "https://www.wikipedia.org", "status": 200, "time_ms": 87, "timestamp": "SystemTime { tv_sec: 1747286987, tv_nsec: 262103469 }"},
+  {"url": "https://nonexistenturl.tld", "status": "error sending request for url (https://nonexistenturl.tld/): error trying to connect: dns error: failed to lookup address information: Name or service not known", "time_ms": 259, "timestamp": "SystemTime { tv_sec: 1747286987, tv_nsec: 288246427 }"},
+  {"url": "https://www.facebook.com/", "status": 200, "time_ms": 334, "timestamp": "SystemTime { tv_sec: 1747286987, tv_nsec: 535052348 }"},
+  {"url": "https://www.rust-lang.org", "status": 200, "time_ms": 603, "timestamp": "SystemTime { tv_sec: 1747286987, tv_nsec: 734036194 }"},
+  {"url": "https://www.instagram.com/", "status": 200, "time_ms": 555, "timestamp": "SystemTime { tv_sec: 1747286987, tv_nsec: 833784125 }"}
+]
